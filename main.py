@@ -3,4 +3,4 @@ try:
     if length <= 0:
         print("Password length must be greater than zero")
 except ValueError:
-    print("Invalid input")
+    print("Please enter a number")
