@@ -128,13 +128,7 @@ Screenshots are included to show:
    <img width="1919" height="1008" alt="Screenshot 2025-12-24 110806" src="https://github.com/user-attachments/assets/309fd9bc-7b1a-4f00-b525-7e74b583fa8d" />
 
 
----
-
-## 15. Opening the Project
-
-You can access the live project using the following link:
-
-[Open Password Checker Project] (https://balapasscheck.vercel.app/)  
+ 
 
 ---
 
@@ -165,3 +159,4 @@ This project successfully demonstrates how Python can be used to build a secure 
 **Name:** Golla Sevith Balaji  
 **Course:** Computer Science and Engineering  
 **Project Type:** DevOps-based Python Project  
+
